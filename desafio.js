@@ -1,3 +1,4 @@
+// Adicionei isso após algumas pesquisas, pois não queria que o nome e o xp fosse fixo, mas que o próprio usuario que decidice nome e xp 
 const readline = require("readline");
 
 // Criando interface para capturar texto do usuário
